@@ -81,8 +81,9 @@ Como parte de los esfuerzos para abordar los retos identificados en materia de s
 ---
 ## Informe final
 
-[Borrador de informe técnico final](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/EcL6uGbCz1pEmwl07xE6e3sBZzG5TjLXN_Pu-II372LkUw?e=G0UOgT)
-[Nota de política](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/Ec--yChTlBFNgQH55s3wQAsB9HI6pzlg7HI7_ZE7o5tnlw?e=hiw4XK)
+**URL** [Borrador de informe técnico final](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/EcL6uGbCz1pEmwl07xE6e3sBZzG5TjLXN_Pu-II372LkUw?e=G0UOgT)
+
+**URL** [Nota de política](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/Ec--yChTlBFNgQH55s3wQAsB9HI6pzlg7HI7_ZE7o5tnlw?e=hiw4XK)
 
 
 ---
