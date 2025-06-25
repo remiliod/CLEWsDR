@@ -2,6 +2,8 @@
 
 El modelo **CLEWsDR** (Clima, Tierra, Energía y Agua para República Dominicana) es una herramienta de modelación integrada diseñada para apoyar la planificación multisectorial y resiliente frente al cambio climático. Permite analizar simultáneamente las dinámicas e interdependencias de los sistemas de recursos, facilitando la identificación de sinergias y compensaciones entre políticas sectoriales.
 
+![CLEWSDRModelStructure](https://github.com/remiliod/CLEWsDR/blob/main/CLEWsDR-ModelStructure.png)
+
 ## Objetivo del Modelo
 
 Evaluar escenarios futuros de desarrollo sostenible para República Dominicana a través del análisis combinado de:
