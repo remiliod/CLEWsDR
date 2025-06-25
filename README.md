@@ -22,8 +22,8 @@ Evaluar escenarios futuros de desarrollo sostenible para República Dominicana a
 Se diseñaron tres escenarios prospectivos para orientar la formulación de políticas públicas:
 
 - **BAU** (*Business As Usual*): Escenario base sin mejoras tecnológicas ni nuevas políticas.
-- **TNR** (*Transición Nacional Resiliente*): Incorpora acciones de tecnificación del riego y mejoras en la productividad agrícola.
-- **DPP** (*Degradación por Proyecciones de Precipitación*): Evalúa los impactos de una disminución en las lluvias basada en proyecciones climáticas.
+- **TNR** (*Tecnificación de riego*): Incorpora acciones de tecnificación del riego y mejoras en la productividad agrícola.
+- **DPP** (*Disminución de precipitaciones*): Evalúa los impactos de una disminución en las lluvias basada en proyecciones climáticas.
 
 ---
 
