@@ -79,7 +79,13 @@ Este modelo fue desarrollado en el marco del programa **“Integrated and cohere
 Como parte de los esfuerzos para abordar los retos identificados en materia de sostenibilidad y planificación multisectorial, el Ministerio de Economía, Planificación y Desarrollo (MEPyD), en colaboración con el Departamento de Asuntos Económicos y Sociales de las Naciones Unidas (ONU DAES), ha impulsado el desarrollo de un modelo CLEWs específico para la República Dominicana. Esta iniciativa forma parte de un proyecto global orientado a fortalecer las capacidades nacionales para una recuperación resiliente e inclusiva, en respuesta a los desafíos estructurales acentuados por la pandemia del COVID-19 y por la crisis climática. En el caso dominicano, el modelo CLEWs ha sido ampliado para incluir los sectores de agua y uso del suelo, permitiendo analizar de manera integrada las interrelaciones entre los sistemas de clima, energía, agricultura y recursos hídricos.
 
 ---
+## Informe final
 
+[Borrador de informe técnico final]([https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/EcL6uGbCz1pEmwl07xE6e3sBZzG5TjLXN_Pu-II372LkUw?e=2G0uJ6](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/EcL6uGbCz1pEmwl07xE6e3sBZzG5TjLXN_Pu-II372LkUw?e=9dY7HX))
+[Nota de política]([https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/EcL6uGbCz1pEmwl07xE6e3sBZzG5TjLXN_Pu-II372LkUw?e=2G0uJ6](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/Ec--yChTlBFNgQH55s3wQAsB9HI6pzlg7HI7_ZE7o5tnlw?e=YnjHq8))
+
+
+---
 ## Licencia
 
 Este repositorio se publica bajo la licencia MIT, salvo que se indique lo contrario en archivos específicos.
