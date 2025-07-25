@@ -78,12 +78,14 @@ Este modelo fue desarrollado en el marco del programa **“Integrated and cohere
 
 Como parte de los esfuerzos para abordar los retos identificados en materia de sostenibilidad y planificación multisectorial, el Ministerio de Economía, Planificación y Desarrollo (MEPyD), en colaboración con el Departamento de Asuntos Económicos y Sociales de las Naciones Unidas (ONU DAES), ha impulsado el desarrollo de un modelo CLEWs específico para la República Dominicana. Esta iniciativa forma parte de un proyecto global orientado a fortalecer las capacidades nacionales para una recuperación resiliente e inclusiva, en respuesta a los desafíos estructurales acentuados por la pandemia del COVID-19 y por la crisis climática. En el caso dominicano, el modelo CLEWs ha sido ampliado para incluir los sectores de agua y uso del suelo, permitiendo analizar de manera integrada las interrelaciones entre los sistemas de clima, energía, agricultura y recursos hídricos.
 
+Adicionalmente, este trabajo se nutre de las bases técnicas desarrolladas en el proceso de formulación de la Estrategia de Largo Plazo (ELP) de la República Dominicana para un desarrollo bajo en emisiones y resiliente al clima hacia 2050. Este proceso ha sido liderado con el acompañamiento técnico del Climate Lead Group (CLG), quienes aportaron el modelo base, la metodología de Toma de Decisión Robusta (RDM), y la articulación de escenarios multisectoriales mediante la herramienta OSeMOSYS. El modelo CLEWsDR se construye sobre esta base metodológica, identificadas en un proceso participativo con actores clave del sector público, privado, académico y de la sociedad civil.
+
 ---
 ## Informe final
 
-**URL** [Borrador de informe técnico final](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/EcL6uGbCz1pEmwl07xE6e3sBZzG5TjLXN_Pu-II372LkUw?e=G0UOgT)
+**URL** [Borrador de informe técnico final](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/Ec9q77lyEelAhzVK68SA2IwBw89W4WAXshuuvpBD9d16YQ?e=oGMFfU)
 
-**URL** [Nota de política](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/Ec--yChTlBFNgQH55s3wQAsB9HI6pzlg7HI7_ZE7o5tnlw?e=hiw4XK)
+**URL** [Nota de política](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/EWd23z6nczpIo44rUPr_K2kBXGaTs2R0SNjrY8Nqezr6_Q?e=cb5b1j)
 
 
 ---
