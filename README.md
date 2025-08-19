@@ -85,7 +85,7 @@ Adicionalmente, este trabajo se nutre de las bases técnicas desarrolladas en el
 
 **URL** [Nota de política](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/EWd23z6nczpIo44rUPr_K2kBXGaTs2R0SNjrY8Nqezr6_Q?e=cb5b1j)
 
-**URL** [Borrador de informe técnico final](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/Ec9q77lyEelAhzVK68SA2IwBw89W4WAXshuuvpBD9d16YQ?e=oGMFfU)
+**URL** [Borrador de informe técnico final](https://zenodo.org/records/16882721)
 
 ---
 ## Licencia
